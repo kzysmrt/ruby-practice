@@ -5,3 +5,6 @@ puts r
 
 r << "dest"
 puts r
+
+p r[3]
+p r[4..5]
